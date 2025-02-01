@@ -1,5 +1,11 @@
 {
   "devDependencies": {
     "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "@tonaljs/chord": "^6.1.1",
+    "@tonaljs/progression": "^4.9.1",
+    "@tonaljs/tonal": "^4.10.0",
+    "bootstrap": "^5.3.3"
   }
 }
